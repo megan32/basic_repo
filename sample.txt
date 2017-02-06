@@ -1,1 +1,3 @@
 This is a sample .txt file, nothing exciting
+
+This is another sample note, nothing exciting
